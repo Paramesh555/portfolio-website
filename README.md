@@ -12,7 +12,6 @@ A personal portfolio website showcasing my projects, blog posts, and developer p
 - Responsive layout for all devices
 - Project showcase section
 - Blog section with links to Medium articles
-- Command palette for quick navigation (⌘K / Ctrl+K)
 - Scroll-triggered reveal animations
 
 ## 🛠️ Tech Stack
@@ -31,25 +30,6 @@ portfolio-website/
 ├── script.js       # JavaScript functionality
 └── README.md       # This file
 ```
-
-## 🚀 Local Development
-
-To run locally, start a simple HTTP server:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then open [http://localhost:8080](http://localhost:8080) in your browser.
-
-## 📬 Contact
-
-- Email: parameshmethuku@gmail.com
-- GitHub: [@Paramesh555](https://github.com/Paramesh555)
-- Twitter: [@Paramesh_Kumar5](https://twitter.com/Paramesh_Kumar5)
-- LinkedIn: [Paramesh Kumar](https://www.linkedin.com/in/paramesh-kumar-27716724b/)
-
----
 
 © 2025 Paramesh. Built with 💻 and late nights.
 
